@@ -1,0 +1,13 @@
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Development\ARCANOID2\Definitions.ARCANOID2.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Source\ARCANOID2\paddle.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Inc\ARCANOID2\paddle.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/FloatingPawnMovement.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FloatingPawnMovement.generated.h

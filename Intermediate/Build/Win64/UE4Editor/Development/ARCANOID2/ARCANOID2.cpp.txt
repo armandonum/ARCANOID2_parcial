@@ -1,0 +1,2 @@
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Development\ARCANOID2\Definitions.ARCANOID2.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Source\ARCANOID2\ARCANOID2.h

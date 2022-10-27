@@ -1,0 +1,20 @@
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Development\ARCANOID2\Definitions.ARCANOID2.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Source\ARCANOID2\BallBound.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Inc\ARCANOID2\BallBound.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Source\ARCANOID2\paddle_player_controler.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Inc\ARCANOID2\paddle_player_controler.generated.h

@@ -1,0 +1,5 @@
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Development\ARCANOID2\Definitions.ARCANOID2.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\Armando\Downloads\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Source\ARCANOID2/Brick.h
+C:\Users\Armando\Documents\Nueva carpeta\new\ARCANOID2\Intermediate\Build\Win64\UE4Editor\Inc\ARCANOID2\Brick.generated.h
